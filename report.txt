@@ -1,0 +1,62 @@
+----------Test Run #1----------
+Binary Search Tree Example:
+
+Printing tree before adding values.
+IntTree:
+Tree is empty.
+
+Adding values to tree.
+
+20 has already been added to the tree.
+Printing tree in by increasing value after adding values.
+Int Tree:
+3 10 20 39 54 70 83 85 96
+
+
+Enter an integer value to search for: 54
+Finding closest values:
+Search IntTree for 54
+The closest value is 54
+Press any key to continue . . .
+
+----------Test Run #2----------
+Binary Search Tree Example:
+
+Printing tree before adding values.
+IntTree:
+Tree is empty.
+
+Adding values to tree.
+
+12 has already been added to the tree.
+Printing tree in by increasing value after adding values.
+Int Tree:
+11 12 22 25 42 57 70 77 86
+
+
+Enter an integer value to search for: 17
+Finding closest values:
+Search IntTree for 17
+The closest values are 22 and 12
+Press any key to continue . . .
+
+
+----------Test Run #3----------
+Binary Search Tree Example:
+
+Printing tree before adding values.
+IntTree:
+Tree is empty.
+
+Adding values to tree.
+
+Printing tree in by increasing value after adding values.
+Int Tree:
+9 24 30 37 40 58 61 76 94 95
+
+
+Enter an integer value to search for: 32
+Finding closest values:
+Search IntTree for 32
+The closest value is 30
+Press any key to continue . . .
